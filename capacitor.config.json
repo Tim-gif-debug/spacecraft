@@ -1,0 +1,20 @@
+{
+  "appId": "com.comicbookhistorians.fascinatingspacecraft",
+  "appName": "Orions Space Adventure",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never",
+    "scrollEnabled": false,
+    "allowsLinkPreview": false,
+    "backgroundColor": "#07051a",
+    "preferredContentMode": "mobile"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "launchShowDuration": 800,
+      "backgroundColor": "#07051a",
+      "showSpinner": false
+    }
+  }
+}
